@@ -1,4 +1,4 @@
-# Hi, I'm Ryan
+# Hi, I'm Ryan 👋
 
 I'm a computer systems engineering student interested in building projects to improve my programming skills.
 
