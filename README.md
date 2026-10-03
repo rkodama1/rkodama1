@@ -8,7 +8,19 @@ I'm a computer systems engineering student interested in building projects to im
 
 ## Skills
 
+### Programming
 - Processing/Java
 - Python
 - C/C++
+
+### Hardware/Digital Design
+- Digital Design Logic
+
+## Learning
+
+### Programming
 - LaTeX
+
+### Hardware/Digital Design
+- Verilog
+- FPGA Implementation
