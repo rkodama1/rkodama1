@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ryan
 
-<!--
-**rkodama1/rkodama1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer systems engineering student interested in building projects to improve my programming skills.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2D Bottle Flipping Simulator - Processing/Java
+
+## Skills
+
+- Processing/Java
+- Python
+- C/C++
+- LaTeX
