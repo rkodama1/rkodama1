@@ -18,8 +18,9 @@ I'm a computer systems engineering student interested in building projects to im
 
 ## Learning
 
-### Programming
+### Programming/Languages
 - LaTeX
+- MATLAB
 
 ### Hardware/Digital Design
 - Verilog
